@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Gestordeentrega.api/Gestordeentrega.api.csproj" />
+  <Project Path="Gestordeentrega.Domain/Gestordeentrega.Domain.csproj" Id="e3e75ef7-530e-40a5-b2f8-cf5b06f2714b" />
+  <Project Path="Gestordeentrega.Infrastructure/Gestordeentrega.Infrastructure.csproj" Id="bdb2aaf2-c962-4853-b906-afa12b53fab9" />
 </Solution>
